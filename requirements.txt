@@ -1,0 +1,8 @@
+# TripTailor is a static site (HTML + CSS + vanilla JavaScript).
+# There are NO Python/Node packages to install and no build step.
+#
+# Runtime needs (loaded by the visitor's browser):
+#   - Google Fonts (Poppins, Inter) via fonts.googleapis.com  (falls back to system fonts if offline)
+#   - Unsplash images via images.unsplash.com                  (falls back to gradients if a photo fails)
+#
+# Hosting: GitHub Pages (free, public repository). Nothing else required.
